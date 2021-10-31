@@ -1,0 +1,24 @@
+*{box-sizing: border-box;}
+
+body{
+    margin: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.hero{
+    background-color: rgb(16, 79, 121);
+}
+
+.text-container{
+    max-width: 50%;  
+    padding: 3rem;
+    color: azure;
+}
+
+.text-container button{
+    background-color: aqua;
+    border: solid aqua 1px;
+    border-radius: 25px;
+    padding: .5rem 1rem;
+    font-family: 'Courier New', Courier, monospace;
+}
